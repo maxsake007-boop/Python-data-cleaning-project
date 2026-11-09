@@ -1,0 +1,16 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
